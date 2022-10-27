@@ -4,6 +4,7 @@
 Vídeo no Youtube
 
 1.Landing Pages
+
 https://dribbble.com/shots/14953088-spark-marketing-page
 https://dribbble.com/shots/15798662-Product-page-hero-section
 https://dribbble.com/shots/16256966-digital-education-website-design
@@ -14,6 +15,7 @@ https://dribbble.com/shots/16186293-website-landing-page
 https://dribbble.com/shots/16356525-Bangtut-Hero-Section
 
 2.Páginas de Login e Cadastro
+
 https://dribbble.com/shots/15252242-Sign-Up-Page
 https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates
 https://dribbble.com/shots/14019613-Sign-up-form
@@ -25,6 +27,7 @@ https://dribbble.com/shots/13993146-Ghost-Sign-In
 https://dribbble.com/shots/16383982-User-account-page-illustrations
 
 3.Formulário
+
 https://dribbble.com/shots/14414277-Subscrify-modals
 https://dribbble.com/shots/9145103-Request-a-demo-page
 https://dribbble.com/shots/16365420-Sign-up-with-illustration
@@ -36,6 +39,7 @@ https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown
 https://dribbble.com/shots/3553449-Travel-Form
 
 4.Catálogo de produtos
+
 https://dribbble.com/shots/15711636-Catalog
 https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page
 https://dribbble.com/shots/13893056-Online-Fashion-Store
@@ -50,6 +54,7 @@ https://dribbble.com/shots/15483957-Catalog-Free-Download
 https://dribbble.com/shots/16233335-Product-card
 
 5.Página de notícias ou blog
+
 https://dribbble.com/shots/15379976-News-Website
 https://dribbble.com/shots/14435664--Exploration-Article-Page
 https://dribbble.com/shots/16385499-News-Site
@@ -65,6 +70,7 @@ https://dribbble.com/shots/15229042-AGENCY
 https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk
 
 6.Desenhar algum elemento específico
+
 https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration
 https://dribbble.com/shots/13978524-Button
 https://dribbble.com/shots/7268454-Rubber-Slider
@@ -85,6 +91,7 @@ https://dribbble.com/shots/13985244-Colorful-Buttons
 https://dribbble.com/shots/14725005-3D-Switch
 
 7.Dashboard
+
 https://dribbble.com/shots/16364085-Wallet-Dashboard-Design
 https://dribbble.com/shots/15378686-Task-Management-Dashboard-Design
 https://dribbble.com/shots/15543862-Finance-Dashboard-Dark-theme
@@ -103,6 +110,7 @@ https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard
 https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard
 
 8.Email marketing
+
 https://dribbble.com/shots/13801246-Email-Design-Mailchimp
 https://dribbble.com/shots/8810403-Referral-Program
 https://dribbble.com/shots/6153546-anyExcuse-Newsletter-Template
@@ -112,6 +120,7 @@ https://dribbble.com/shots/15184358-Sendlane-Visual-Identity
 https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design
 
 9.To do list/calendário/organização pessoal/notion
+
 https://dribbble.com/shots/5726145-Todo-Web-App
 https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List
 https://dribbble.com/shots/3383167-To-Do-List
@@ -125,6 +134,7 @@ https://dribbble.com/shots/3884941-Todooo-Tasks
 https://dribbble.com/shots/14928544-Goal-based-project-management
 
 10. Seu portfólio
+
 https://dribbble.com/shots/15790280-personal-portfolio-Website-UI
 https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison
 https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design
